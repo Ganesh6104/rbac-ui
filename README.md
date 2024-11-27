@@ -99,23 +99,6 @@ src/
 
 ---
 
-## **Screenshots**
-
-Below is a preview of the **Admin Dashboard** UI:
-
-### **User Management**
-
-![User Management](./screenshots/user-management.png)
-
-- You can add, edit, and delete users, as well as manage their status and role.
-
-### **Role Management**
-
-![Role Management](./screenshots/role-management.png)
-
-- You can manage roles and assign permissions (Read, Write, Delete).
-
----
 
 ## **Contributing**
 
